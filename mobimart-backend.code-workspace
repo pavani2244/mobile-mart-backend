@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Full stack/MobiMart-Backend/assets"
+		},
+		{
+			"path": "../../Full stack/MobiMart-Backend/certs"
+		}
+	],
+	"settings": {}
+}
